@@ -4,7 +4,7 @@ Title: Anderson-Darling GoF test
 Version: 0.1
 Date: 2009-06-26
 Author: Carlos J. Gil Bellosta
-Maintainer: Carlos J. Gil Bellosta <cgb@datanalyics.com>
+Maintainer: Carlos J. Gil Bellosta <cgb@datanalytics.com>
 Description: Anderson-Darling GoF test with p-value calculation based on Marsaglia's 2004 paper "Evaluating the Anderson-Darling Distribution"
 License: GPL
 LazyLoad: yes
