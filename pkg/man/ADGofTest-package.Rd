@@ -27,6 +27,3 @@ Maintainer: Carlos J. Gil Bellosta  <cjgb@datanalytics.com>
     G. and J. Marsaglia, "Evaluating the Anderson-Darling Distribution", Journal of Statistical Software, 2004
 }
 \keyword{ package }
-\seealso{
-~~\code{\link[<pkg>:<pkg>-package]{<pkg>}} ~~
-}
